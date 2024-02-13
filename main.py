@@ -107,14 +107,7 @@ class MainApp(MDApp):
         except Exception as e:
             print(e)
             error = True
-
-
-        print(most_convinients)
-        print(results)
-
-
-
-        
+   
         if not error:
 
             text = ""
